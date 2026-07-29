@@ -1,5 +1,6 @@
-app.py
-chatbot.csv
-chatbot_model.pkl
-vectorizer.pkl
-requirements.txt
+numpy 
+pandas
+streamlit
+nltk
+matplotlib
+joblib
